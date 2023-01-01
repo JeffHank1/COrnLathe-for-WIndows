@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.billooms.view3d/1">
+    <module_version install_time="1589997157161" last="true" origin="installer" specification_version="1.0">
+        <file crc="391672708" name="config/Modules/com-billooms-view3d.xml"/>
+        <file crc="3545520574" name="modules/com-billooms-view3d.jar"/>
+    </module_version>
+</module>

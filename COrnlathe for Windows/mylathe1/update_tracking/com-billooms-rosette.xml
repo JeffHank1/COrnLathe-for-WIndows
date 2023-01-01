@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.billooms.rosette/1">
+    <module_version install_time="1589997148895" last="true" origin="installer" specification_version="1.0">
+        <file crc="1560221828" name="config/Modules/com-billooms-rosette.xml"/>
+        <file crc="366269607" name="modules/com-billooms-rosette.jar"/>
+    </module_version>
+</module>

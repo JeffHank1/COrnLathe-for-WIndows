@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.billooms.cutlistviewer">
+    <module_version install_time="1589997142987" last="true" origin="installer" specification_version="1.0">
+        <file crc="2396753658" name="config/Modules/com-billooms-cutlistviewer.xml"/>
+        <file crc="1381441903" name="modules/com-billooms-cutlistviewer.jar"/>
+    </module_version>
+</module>

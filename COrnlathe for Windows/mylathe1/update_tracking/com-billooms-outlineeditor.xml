@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.billooms.outlineeditor/1">
+    <module_version install_time="1589997153629" last="true" origin="installer" specification_version="1.0">
+        <file crc="333109894" name="config/Modules/com-billooms-outlineeditor.xml"/>
+        <file crc="2917369834" name="modules/com-billooms-outlineeditor.jar"/>
+    </module_version>
+</module>

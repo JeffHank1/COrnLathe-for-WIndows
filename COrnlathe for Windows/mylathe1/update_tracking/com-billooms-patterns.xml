@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.billooms.patterns/1">
+    <module_version install_time="1589997143722" last="true" origin="installer" specification_version="1.0">
+        <file crc="1147041853" name="config/Modules/com-billooms-patterns.xml"/>
+        <file crc="3397359532" name="modules/com-billooms-patterns.jar"/>
+    </module_version>
+</module>

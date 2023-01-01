@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.billooms.comment/1">
+    <module_version install_time="1589997138986" last="true" origin="installer" specification_version="1.0">
+        <file crc="2587802100" name="config/Modules/com-billooms-comment.xml"/>
+        <file crc="286258328" name="modules/com-billooms-comment.jar"/>
+    </module_version>
+</module>

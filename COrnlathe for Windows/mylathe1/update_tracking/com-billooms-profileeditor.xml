@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.billooms.profileeditor/1">
+    <module_version install_time="1589997148129" last="true" origin="installer" specification_version="1.0">
+        <file crc="4284161134" name="config/Modules/com-billooms-profileeditor.xml"/>
+        <file crc="3107222472" name="modules/com-billooms-profileeditor.jar"/>
+    </module_version>
+</module>

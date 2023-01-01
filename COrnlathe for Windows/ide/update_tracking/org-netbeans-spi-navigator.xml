@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.spi.navigator/1">
+    <module_version install_time="1473840577734" last="true" origin="installer" specification_version="1.37.1">
+        <file crc="489298949" name="config/Modules/org-netbeans-spi-navigator.xml"/>
+        <file crc="766785270" name="modules/locale/org-netbeans-spi-navigator_ja.jar"/>
+        <file crc="1994493361" name="modules/locale/org-netbeans-spi-navigator_pt_BR.jar"/>
+        <file crc="1987288578" name="modules/locale/org-netbeans-spi-navigator_ru.jar"/>
+        <file crc="1027588242" name="modules/locale/org-netbeans-spi-navigator_zh_CN.jar"/>
+        <file crc="1503439316" name="modules/org-netbeans-spi-navigator.jar"/>
+    </module_version>
+</module>
