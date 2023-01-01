@@ -1,6 +1,16 @@
 # COrnLathe for Windows
  
- Windows port of COrnLathe
+ Windows port of COrnLathe. COrnlathe is a program originally written by Bill Ooms for Mac computers. It is posted elsewhere in Github. 
+ This is a functional port of that to Windows. 
+ All that is required to operate is the zip file. 
+ Download it, unzip to a convenient folder. Search in the BIN folder for mylathe1 and run it. 
+ The program is known to run on WIndows versions 7, 10, and 11. Java may be needed to be installed for it to run. 
+ All instructions are in the Help file on the top Ribbon. No further development of this program is planned. 
+ It is provided 'as is' for people interested in an excellent Ornamental Turning design program which is also 
+ capable of creating necessary GCode to cut the design on an appropriately configured CNC machine. 
+ I would refer you to the billooms.com website and his YouTube videos for more information.
+ 
+ 
  
  COrnLathe
 
