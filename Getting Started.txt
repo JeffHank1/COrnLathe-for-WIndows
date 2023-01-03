@@ -1,0 +1,88 @@
+This is a short Getting Started document to help someone get going with COrnLathe. 
+
+
+As described in the Readme file, once the COrnLathe for Windows zip file is downloaded, 
+
+unzip it in a folder in a convenient location. You will have to unzip some of the files within that zip file 
+
+depending on how you downloaded the data. 
+
+Navigate to the BIN folder, find mylathe1.exe and double click to run it. You may have to download JAVA 
+
+if your computer doesn't already have it loaded.
+
+
+If mylathe1 opens and COrnLathe starts up that’s great. It is helpful to Pin the icon to the Windows ribbon 
+
+on the bottom of your screen so you don't have to go looking for it later.
+
+
+It’s easiest to start with one of Bill’s examples under the Favourites tab, top left. 
+
+Click that, click the + beside the COrnlathe examples folder, and double click bamboo.xml to get started.
+
+You can drag it around in the top right Outline Editor window holding the right mouse button while moving the mouse. 
+
+Zoom with the mouse wheel. In that example there are only two Outline points, top and bottom, and the Cutpoints are in between. 
+
+
+You will probably have to click the In/Out view icon at the bottom left of that window, and maybe the Render button to see the Bamboo pattern properly illuminated.
+
+The pattern is on the Outside of the form.
+
+
+It is helpful to find and Copy the entire Examples folder then paste it somewhere else, safe from the program since 
+
+when you save the file, the original is overwritten.
+ 
+ 
+In the Examples file you should find Test.xml. This is a simple Outline defined by 2 points with no Cutpoints.
+
+This is a starter file to play with. Add Outline points, change shape, try different cuts, etc. Be aware that when you save it, 
+
+the original will be overwritten. The whole Save As function doesn’t work so this is a workaround.
+
+In the bottom right window you can see Outline and Cutpoints buttons. To add an outline point click the Outline button and 
+
+double click where you want it in the top right window alone the Orange line. To move that Outline point, left click and 
+
+hold and drag it to the side or up, etc. Thickness of the form can be changed in the Bottom Right window. 
+
+If you left click and hold just left of a Cutpoint number you can get rid of them by dragging them to the Right off the window.
+
+You can see what happens in the top left window if you select the View3D window tab.
+ 
+
+The Bottom Left Data Navigator window gives you access to the Cutpoint features = phasing, amplitudes, frequency, etc. 
+
+Left clicking on a Cutpoint in the Data Navigator window highlights it. The tab next to Data Navigator is where you can 
+
+edit that point’s information. These can be changed one Cutpoint at a time. Click Render to update the 3D image if it
+
+wasn't already done by the program.
+
+
+If you are creating a new model, make one Cutpoint and customize it in Data Navigator as you want it. 
+
+Then you can double click in the Outline Editor window on the orange line to duplicate it. You can go back later and 
+
+change the phasing as desired.
+
+
+To add a particular type of Cutpoint, select the type top Right edge, Left click and drag to the model outline. 
+
+
+Bill’s Help file describes the significance of each colour line in the Outline Editor window.
+
+For fast rendering it’s better to use a Pointed cutter otherwise it can take forever. Bamboo needs the Concave cutter of course. 
+
+A simple PDF of the Help files included in the program is also in the Github repository for those who prefer to read paper.
+
+
+There are many, many features to this program so poking around different windows to find them is worthwhile. 
+
+Start by looking under the Window Tab on the top ribbon. There you will see Pattern and Rosette editors
+
+for example.
+
+I hope you enjoy playing with COrnLathe. J. Hankinson Jan 2023
