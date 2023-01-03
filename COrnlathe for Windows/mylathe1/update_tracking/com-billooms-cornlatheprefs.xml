@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><module codename="com.billooms.cornlatheprefs/1">
-    <module_version install_time="1589997140360" last="true" origin="installer" specification_version="1.0">
-        <file crc="1827449973" name="config/Modules/com-billooms-cornlatheprefs.xml"/>
-        <file crc="3441165831" name="modules/com-billooms-cornlatheprefs.jar"/>
-    </module_version>
-</module>

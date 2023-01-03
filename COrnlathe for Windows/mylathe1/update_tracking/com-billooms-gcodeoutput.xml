@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><module codename="com.billooms.gcodeoutput/1">
-    <module_version install_time="1589997154833" last="true" origin="installer" specification_version="1.0">
-        <file crc="2381448928" name="config/Modules/com-billooms-gcodeoutput.xml"/>
-        <file crc="2961419776" name="modules/com-billooms-gcodeoutput.jar"/>
-    </module_version>
-</module>

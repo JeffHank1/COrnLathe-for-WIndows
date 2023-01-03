@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><module codename="com.billooms.controls/1">
-    <module_version install_time="1589997139643" last="true" origin="installer" specification_version="1.0">
-        <file crc="1243706266" name="config/Modules/com-billooms-controls.xml"/>
-        <file crc="562070891" name="modules/com-billooms-controls.jar"/>
-    </module_version>
-</module>

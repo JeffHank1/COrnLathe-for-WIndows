@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><module codename="com.billooms.cornfile/1">
-    <module_version install_time="1589997156051" last="true" origin="installer" specification_version="1.0">
-        <file crc="904010048" name="config/Modules/com-billooms-cornfile.xml"/>
-        <file crc="2878158813" name="modules/com-billooms-cornfile.jar"/>
-    </module_version>
-</module>

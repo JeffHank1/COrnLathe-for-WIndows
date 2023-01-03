@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><module codename="com.billooms.patternbar/1">
-    <module_version install_time="1589997145187" last="true" origin="installer" specification_version="1.0">
-        <file crc="1295042504" name="config/Modules/com-billooms-patternbar.xml"/>
-        <file crc="981442005" name="modules/com-billooms-patternbar.jar"/>
-    </module_version>
-</module>

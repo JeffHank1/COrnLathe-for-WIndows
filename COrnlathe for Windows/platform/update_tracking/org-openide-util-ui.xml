@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><module codename="org.openide.util.ui">
-    <module_version install_time="1473840475857" last="true" origin="installer" specification_version="9.6.1">
-        <file crc="2211434647" name="lib/locale/org-openide-util-ui_ja.jar"/>
-        <file crc="2761813098" name="lib/locale/org-openide-util-ui_pt_BR.jar"/>
-        <file crc="2592825981" name="lib/locale/org-openide-util-ui_ru.jar"/>
-        <file crc="394632653" name="lib/locale/org-openide-util-ui_zh_CN.jar"/>
-        <file crc="809535772" name="lib/org-openide-util-ui.jar"/>
-    </module_version>
-</module>
